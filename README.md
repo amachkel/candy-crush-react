@@ -12,7 +12,7 @@ A popular game recreated with React. You can expect to see refactoring and styli
 
  ## Usage
  
-  ### [Visit the deployed app here!](https://tech-blog-amkh.herokuapp.com)
+  ### [Visit the deployed app here!](https://amachkel.github.io/candy-crush-react/)
 
 
 ## Technologies Used
