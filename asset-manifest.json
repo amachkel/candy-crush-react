@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/candy-crush-react/static/css/main.59b90204.css",
+    "main.js": "/candy-crush-react/static/js/main.14e513f7.js",
+    "static/media/blank.png": "/candy-crush-react/static/media/blank.a2402a5966938569acc5.png",
+    "static/media/candy-purple.png": "/candy-crush-react/static/media/candy-purple.fde1102ac7ad44e88561.png",
+    "index.html": "/candy-crush-react/index.html",
+    "main.59b90204.css.map": "/candy-crush-react/static/css/main.59b90204.css.map",
+    "main.14e513f7.js.map": "/candy-crush-react/static/js/main.14e513f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59b90204.css",
+    "static/js/main.14e513f7.js"
+  ]
+}
