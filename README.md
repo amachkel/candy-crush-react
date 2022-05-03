@@ -17,9 +17,7 @@ A popular game recreated with React. You can expect to see refactoring and styli
 
 ## Technologies Used
 
-Front End:
-*JavaScript
-*React
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## Contributors
  If you would like to contribute, please contact me at amachkel@gmail.com.
